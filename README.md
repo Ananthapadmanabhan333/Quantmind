@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/Ananthapadmanabhan333">Ananthapadmanabhan</a></p>
+<p align="center">Built with by <a href="https://github.com/Ananthapadmanabhan333">Ananthapadmanabhan</a></p>
